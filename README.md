@@ -8,3 +8,5 @@ This repository is very benefical to beginners of 3D LiDAR, which includes the f
 
 3. Point cloud mainpulator: convert 3D point cloud into lattice- or polar-based grid maps. LatticeGridMapFun() PolarGridMapFun()
 
+Enjoy it and connect with me if you have any problem! 
+
